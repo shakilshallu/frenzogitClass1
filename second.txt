@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 frenzo acadamy
+=======
+manfree
+full stock develpment
+python,java
+>>>>>>> dev1

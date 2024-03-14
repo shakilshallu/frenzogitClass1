@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 manfree technology
+=======
+hello mrng
+frontend
+backend
+node js 
+mango db
+hello
+>>>>>>> dev1
+
+
